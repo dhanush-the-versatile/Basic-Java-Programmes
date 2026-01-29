@@ -1,3 +1,4 @@
+/* Java program to create Class as Registration with properties */
 class Registration
 {
     public static void main(String[] args) 
