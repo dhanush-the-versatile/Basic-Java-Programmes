@@ -1,4 +1,4 @@
-import java.lang.*;
+/* Java program to create Class as Registration with properties with user input */
 import java.util.Scanner;
 class Registration_scanner{
     public static void main(String[] args) 
